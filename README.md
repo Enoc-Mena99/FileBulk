@@ -1,3 +1,6 @@
+![HQSoftwareLogo](https://user-images.githubusercontent.com/92764070/140683378-02034c2f-420d-4651-b30f-ca48307f95b2.png)
+
+
 # FileBulk
 This is a file deletion program that asks you for an extension of a file (.mp3, .pdf, .docx, etc.) to delete all of the files in a dir that have that extension. 
 Hope this helps make a lot of peoples lives easier....
@@ -13,3 +16,7 @@ This shows how FileBulk works after the user specifies the extension of the bulk
 
 https://user-images.githubusercontent.com/92764070/140681496-375f3562-53de-4293-bb24-e99e58fc6e4a.mov
 
+# Developed by: 
+HQSoftware
+
+Email: HQSofwareInc@gmail.com
